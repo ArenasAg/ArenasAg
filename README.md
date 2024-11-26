@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, soy Anderson</h1>
+<h1 align="center">Hola 👋, soy Anderson</h1>
 <h3 align="center">Soy un apasionado joven amante de la programación de Manizales-caldas, con un profundo interés en aprender y crecer cada día más. Me motiva explorar nuevas tecnologías, resolver problemas completos y crear soluciones innovadoras que pueden marcar una diferencia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arenasag" alt="arenasag" /></a> </p>
