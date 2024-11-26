@@ -5,13 +5,12 @@
 
 - 🌱 Iicim está aprendiendo actualmente **Docker, Spring Boot(JAVA)**
 
-- ⁇ precio ⁇ Todos mis proyectos están disponibles en [https://github.com/ArenasAg/Portafolio](https://github.com/ArenasAg/Portafolio)
+- Todos mis proyectos están disponibles en [https://github.com/ArenasAg/Portafolio](https://github.com/ArenasAg/Portafolio)
 
-- 💬 Pregúntame sobre **Laravel, Angular, Mysql***
+- 💬 Pregúntame sobre **Laravel, Angular, Mysql**
 
 - 📫 Cómo contactarme **arenasanderson63@gmail.com**
 
-- ⚡ Dato divertido **Creo que a veces soy gracioso,y me gusta colaborar en equipo**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
