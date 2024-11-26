@@ -22,8 +22,8 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <p><img  alt="arenasag"/></p>
-    <p><img alt="arenasag"/></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arenasag&show_icons=true&locale=en&layout=compact" alt="arenasag"/></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arenasag&" alt="arenasag"/></p>
   </div>
 </div>
 
