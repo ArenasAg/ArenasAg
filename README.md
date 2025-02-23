@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Anderson</h1>
 <h3 align="center">Soy un apasionado joven amante de la programación de Manizales-caldas, con un profundo interés en aprender y crecer cada día más. Me motiva explorar nuevas tecnologías, resolver problemas completos y crear soluciones innovadoras que pueden marcar una diferencia</h3>
 
-- 🔭 Iianm actualmente trabajando en **API Resource para facturación**
+- Actualmente trabajando en **API Resource para facturación**
 
-- 🌱 Iicim está aprendiendo actualmente **Docker, Spring Boot(JAVA)**
+- Aprendiendo actualmente **Docker, Spring Boot(JAVA)**
 
 - Todos mis proyectos están disponibles en [https://github.com/ArenasAg/Portafolio](https://github.com/ArenasAg/Portafolio)
 
