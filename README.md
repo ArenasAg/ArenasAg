@@ -5,15 +5,15 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+APIs+%26+Microservices+Architecture;Desktop+Apps+with+OCR+%26+Hardware+Integration;Full+Stack%3A+Angular+%7C+React+%7C+Next.js+%7C+Laravel;Building+real+solutions+to+real+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+APIs+%26+Microservices+Architecture;Desktop+Apps+with+OCR+%26+Hardware+Integration;Full+Stack%3A+Angular+%7C+React+%7C+Next.js+%7C+Laravel;Building+real+solutions+to+real+problems." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile badges -->
+<!-- Profile views + badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=arenasag&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArenasAg/Portafolio)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arenasanderson63@gmail.com)
-[![Location](https://img.shields.io/badge/Manizales-Caldas%2C%20Colombia-f9c513?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Manizales,Caldas,Colombia)
 
 </div>
 
@@ -21,21 +21,25 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** from Manizales, Colombia with hands-on experience building everything from distributed microservices and REST APIs to desktop applications with real hardware integration. I work across the full stack — designing backend architecture, building interactive frontends, and deploying with Docker.
+```bash
+$ whoami
+> anderson_arenas
 
-My projects span **healthcare systems**, **library management**, **e-commerce integrations**, **academic data pipelines**, and **physical hardware** tooling — each one built with production quality in mind.
-
-```python
-anderson = {
-    "location":     "Manizales, Caldas 🇨🇴",
-    "focus":        ["Backend APIs", "Microservices", "Full Stack Dev", "Desktop Apps"],
-    "backend":      ["Laravel", "FastAPI", "Spring Boot", "Node.js"],
-    "frontend":     ["Angular", "React", "Next.js", "Ionic"],
-    "databases":    ["MySQL", "PostgreSQL", "SQLite"],
-    "tools":        ["Docker", "Python", "OCR / Tesseract", "Linux"],
-    "learning":     ["Spring Boot (Java)", "Semantic Web / RDF"],
-    "contact":      "arenasanderson63@gmail.com"
+$ cat profile.json
+{
+  "role"       : "Full Stack Developer",
+  "location"   : "Manizales, Caldas 🇨🇴",
+  "focus"      : ["Backend APIs", "Microservices", "Desktop Apps", "Full Stack"],
+  "backend"    : ["Laravel", "FastAPI", "Spring Boot", "Node.js"],
+  "frontend"   : ["Angular", "React", "Next.js", "Ionic"],
+  "databases"  : ["MySQL", "PostgreSQL", "SQLite"],
+  "tools"      : ["Docker", "Python", "Tesseract OCR", "Linux", "Git"],
+  "learning"   : ["Spring Boot (Java)", "Semantic Web / RDF"],
+  "contact"    : "arenasanderson63@gmail.com"
 }
+
+$ echo "Building real solutions to real problems since day one."
+> Building real solutions to real problems since day one.
 ```
 
 ---
@@ -56,20 +60,20 @@ anderson = {
       </p>
     </td>
     <td width="50%">
-      <h3>🖨️ Gestor de Gastos Pro — Desktop OCR App</h3>
-      <p>Native desktop application for expense management connected to a <strong>physical HP scanner</strong> via <code>scanimage</code>. Uses <strong>Tesseract OCR</strong> to auto-extract dates from scanned invoices, organizes them as PDFs, and tracks everything in Excel with soft-delete and restore functionality.</p>
+      <h3>🖨️ Expense Manager Pro — Desktop OCR App</h3>
+      <p>Native desktop app connected to a <strong>physical HP scanner</strong> via <code>scanimage</code>. Uses <strong>Tesseract OCR</strong> to auto-extract dates from invoices, organizes PDFs by year/month, and tracks everything in Excel with soft-delete and restore.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OCR-Tesseract-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/CustomTkinter-GUI-5865F2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Pandas-Excel-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📚 Libraxis — Digital Library Marketplace</h3>
-      <p>Multi-platform ecosystem where users register their own libraries and offer books for <strong>sale or rental</strong> — all in one unified system. Built with a <strong>Laravel REST API</strong> backend, an <strong>Angular</strong> web client, and an <strong>Ionic</strong> mobile app, covering catalog management, virtual transactions, loan tracking, and user role control.</p>
+      <p>Multi-platform ecosystem where users register their own libraries and offer books for <strong>sale or rental</strong> — all in one system. Built with a <strong>Laravel REST API</strong>, an <strong>Angular</strong> web client, and an <strong>Ionic</strong> mobile app, covering catalog management, virtual transactions, and user role control.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -79,10 +83,10 @@ anderson = {
     </td>
     <td width="50%">
       <h3>🛒 eBay Clone — Reverse Engineering Project</h3>
-      <p>Full-stack recreation of the <strong>eBay platform</strong> through reverse engineering — analyzing the original UI/UX, data flows, and feature set to rebuild the system from scratch. Includes product listings, search, bidding logic, and user management, paired with a dedicated backend API.</p>
+      <p>Full-stack recreation of the <strong>eBay platform</strong> through reverse engineering — deconstructing the original UI/UX, data flows, and features to rebuild the system from scratch. Includes listings, search, bidding logic, and user management.</p>
       <p>
         <img src="https://img.shields.io/badge/Reverse_Engineering-E53238?style=flat-square&logo=ebay&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Full_Stack-Clone-58a6ff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Full_Stack_Clone-58a6ff?style=flat-square"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
     </td>
@@ -90,7 +94,7 @@ anderson = {
   <tr>
     <td width="50%">
       <h3>📊 UAM Research Dashboard</h3>
-      <p>Academic analytics platform for <strong>Universidad Autónoma de Manizales</strong>. Aggregates data from CvLAC, GrupLAC, ORCID, Crossref & OpenAlex through scraping pipelines, generates <strong>RDF semantic knowledge graphs</strong>, and renders interactive visualizations in React + Vite.</p>
+      <p>Academic analytics platform for <strong>Universidad Autónoma de Manizales</strong>. Aggregates data from CvLAC, GrupLAC, ORCID, Crossref & OpenAlex via scraping pipelines, generates <strong>RDF semantic knowledge graphs</strong>, and renders interactive visualizations in React + Vite.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -100,12 +104,12 @@ anderson = {
     </td>
     <td width="50%">
       <h3>🧾 Billing API Resource</h3>
-      <p>RESTful API for electronic invoicing built with <strong>Laravel Resource architecture</strong>. Clean, versioned endpoints handling complex billing workflows and document generation.</p>
+      <p>RESTful API for electronic invoicing built with <strong>Laravel Resource architecture</strong>. Clean, versioned endpoints handling complex billing workflows and document generation for production use.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_API-Architecture-58a6ff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/REST_API-58a6ff?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -148,22 +152,20 @@ anderson = {
 
 ---
 
-## 📈 GitHub Analytics
+## 🧬 Developer DNA
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arenasag&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arenasag&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arenasag&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f9c513&currStreakLabel=58a6ff" />
-</div>
+![Backend Development](https://progress-bar.xyz/95?title=Backend+Development&width=500&color=58a6ff)
+![API+Architecture](https://progress-bar.xyz/90?title=API+Architecture&width=500&color=58a6ff)
+![Database Design](https://progress-bar.xyz/80?title=Database+Design&width=500&color=58a6ff)
+![Full Stack Engineering](https://progress-bar.xyz/75?title=Full+Stack+Engineering&width=500&color=58a6ff)
+![Frontend Development](https://progress-bar.xyz/65?title=Frontend+Development&width=500&color=7c6ff7)
+![Mobile Apps Ionic](https://progress-bar.xyz/55?title=Mobile+Apps+%28Ionic%29&width=500&color=7c6ff7)
+![DevOps Docker](https://progress-bar.xyz/40?title=DevOps+%2F+Docker&width=500&color=3c8dbc)
+![Semantic Web RDF](https://progress-bar.xyz/30?title=Semantic+Web+%2F+RDF+%E2%86%90+learning&width=500&color=3c8dbc)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arenasag&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f9c513&area=true&hide_border=true" />
 </div>
-
----
 
 ## 📬 Contact
 
